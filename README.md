@@ -7,7 +7,7 @@
 [best_finetune_model_150.pt](https://drive.google.com/file/d/11VEO5d0DXBCJVuAqkMRfwLtrV6t5fWiE/view?usp=sharing)
 
 ## Confusion Matrix
-![](confusion_matrix.png)
+![Confusion Matrix](confusion_matrix.png)
 
 
 ## Classification Report
