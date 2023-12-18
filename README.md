@@ -6,6 +6,9 @@
 ## Finetuned Model
 [best_finetune_model_150.pt](https://drive.google.com/file/d/11VEO5d0DXBCJVuAqkMRfwLtrV6t5fWiE/view?usp=sharing)
 
+## Confusion Matrix
+![](confusion_matrix.png)
+
 
 ## Classification Report
 | Class | Precision | Recall | F1-Score | Support |
@@ -18,3 +21,4 @@
 | Accuracy |       |        | 0.78     | 178     |
 | Macro Avg | 0.80 | 0.78   | 0.78     | 178     |
 | Weighted Avg | 0.80 | 0.78 | 0.78 | 178 |
+
